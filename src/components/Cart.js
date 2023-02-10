@@ -13,7 +13,7 @@ function Cart(props)
 	// const cart = props.cart,	
 	// const updateCart = props.updateCart
 	// const isOpen = props.isOpen,
-	// const setIsOpen = props.setIsOpen,
+	// const setIsOpen = props.setIsOpen
 
 	// On applique la méthode reduce() de JavaScript sur le prop "cart" qui contient un tableau. Cette méthode exécute une fonction de
 	// réduction sur chaque élément du tableau et renvoie une seule valeur: le résultat cumulé (accumulateur) de la fonction.
